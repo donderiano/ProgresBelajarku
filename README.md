@@ -2,6 +2,8 @@
 Repository ini merupakan pengalaman saya selama belajar di dicoding
 
 14 Juni 2021
-Belajar Kelas memulai pemrograman java. (Progres 21%)
-*Belajar apa ituu
-*Belajar apa inii
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
